@@ -18,6 +18,5 @@ Professional Statement
 📧 Contact
 
 For professional inquiries or collaboration, contact me via email:
-
-[amirali.shafighi89@gmail.com]
+    [amirali.shafighi89@gmail.com]
 
