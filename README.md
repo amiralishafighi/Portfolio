@@ -1,5 +1,5 @@
 # Portfolio
-## Seyed Amirali Shafighi – Technical Portfolio
+### Seyed Amirali Shafighi – Technical Portfolio
 
 💾 This repository presents a curated collection of my technical projects, reflecting advanced proficiency in Python programming and web development. My work emphasizes precision, efficiency, and adherence to best practices in software design and implementation.
 
